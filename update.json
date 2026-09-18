@@ -1,0 +1,15 @@
+{
+  "stable": {
+    "version": "0.3.5",
+    "minimumVersion": "0.3.4",
+    "mandatory": false,
+    "downloadUrl": "https://github.com/dev-eren/NexaMP/releases/download/v0.3.5/NexaMP-0.3.5%20Setup.exe",
+    "sha256": "e3e10c50d2045f40800e7b09ef61a001d6a12684450448549e3cc863718359a8",
+    "size": 155106304,
+    "assetName": "NexaMP-0.3.5 Setup.exe",
+    "publishedAt": "2026-09-18T18:38:16.118Z",
+    "notes": [
+      "Notas da versão"
+    ]
+  }
+}
