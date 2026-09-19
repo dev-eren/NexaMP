@@ -1,13 +1,13 @@
 {
   "stable": {
-    "version": "0.3.9",
-    "minimumVersion": "0.3.8",
+    "version": "0.3.10",
+    "minimumVersion": "0.3.9",
     "mandatory": false,
-    "downloadUrl": "https://github.com/dev-eren/NexaMP/releases/download/v0.3.9/NexaMP-0.3.9%20Setup.exe",
-    "sha256": "9da3fde311f080d5b3c4609f961e80fdf2d48c86b4c83479fe539e3cfe2cdd08",
-    "size": 155481600,
-    "assetName": "NexaMP-0.3.9 Setup.exe",
-    "publishedAt": "2026-09-19T06:23:33.729Z",
+    "downloadUrl": "https://github.com/dev-eren/NexaMP/releases/download/v0.3.10/NexaMP-0.3.10%20Setup.exe",
+    "sha256": "2ba7267734819ff59f8bf831e892c7da8cd7f146eaea6fb67f49eb57d904d626",
+    "size": 155554816,
+    "assetName": "NexaMP-0.3.10 Setup.exe",
+    "publishedAt": "2026-09-19T06:35:38.507Z",
     "notes": [
       "Atualização do NexaMP"
     ]
